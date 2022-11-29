@@ -6,7 +6,7 @@ When creating a website, it is important that it remains accessible to people wh
 
  This is called an 'alt' attribute. This attribute does not only help those with visual disabilities, it is also helpful for developers to provide context when a webpage is missing images.
 
- Secondly, my other aim was to replace the 'div' elements on the page with semantic elements such as 'header', 'section' and 'footer'.
+ My other aim was to replace the 'div' elements on the page with semantic elements such as 'header', 'section' and 'footer'.
  Similarly to 'alt' attributes, these semantic elements provide context for the HTML code, providing a better description of the content, making it easier for
  the developer to read and improving search engine optimisation.
 
